@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bary/static/css/main.8976c48c.css",
+    "main.js": "/bary/static/js/main.3c3c4521.js",
+    "static/js/453.d6033f3e.chunk.js": "/bary/static/js/453.d6033f3e.chunk.js",
+    "index.html": "/bary/index.html",
+    "main.8976c48c.css.map": "/bary/static/css/main.8976c48c.css.map",
+    "main.3c3c4521.js.map": "/bary/static/js/main.3c3c4521.js.map",
+    "453.d6033f3e.chunk.js.map": "/bary/static/js/453.d6033f3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8976c48c.css",
+    "static/js/main.3c3c4521.js"
+  ]
+}
