@@ -1,0 +1,38 @@
+.hero {
+  background: linear-gradient(to right, #3b3b98, #5f27cd);
+  color: white;
+  padding: 80px 0;
+  text-align: center;
+}
+
+.hero .hero-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.hero .hero-content img {
+  max-width: 80px;
+  border-radius: 50%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.hero .hero-title {
+  font-size: 2.8rem;
+  margin: 0;
+  font-weight: bold;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  margin-top: 20px;
+}
+
+/* 강조 효과 추가 */
+.hero p.highlight {
+  font-size: 1.4rem;     /* 약간 크게 */
+  font-weight: bold;     /* 굵게 */
+  color: #ffdd57;        /* 눈에 띄는 색상 (노란색 계열) */
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+}

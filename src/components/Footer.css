@@ -1,0 +1,12 @@
+/* Footer.css */
+footer {
+    background-color: #343a40;
+    color: #ccc;
+    padding: 20px 0;
+  }
+  footer p {
+    margin: 0;
+    font-size: 0.9rem;
+    text-align: center;
+  }
+  

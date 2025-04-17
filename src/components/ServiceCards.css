@@ -1,0 +1,19 @@
+/* ServiceCards.css */
+.styled-card {
+    border: 2px solid #3b3b98;
+    border-radius: 10px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+    background-color: #fff;
+  }
+  .styled-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+    border-color: #5f27cd;
+  }
+  
+  .section-title {
+    color: #3b3b98;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+  }
+  
